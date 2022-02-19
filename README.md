@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm a Senior UI Engineer who enjoys learning about CSS, Web Accessbility, JavaScript frameworks like React, Vue, and Svelte, and many more Frontend technologies.
 
 <!--
 **shashilo/shashilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
